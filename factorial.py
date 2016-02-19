@@ -3,7 +3,7 @@ while True:
 
 	def while_factorial(num):
 		factorial = 1
-		for i in range(num - 1):
+		for i in range(num - 1):	
 			factorial = factorial*(num - i)
 		return factorial
 	
