@@ -1,3 +1,6 @@
+"""
+Hello World gui program in python.
+"""
 from Tkinter import *
 window = Tk()
 window.title("Label Example")

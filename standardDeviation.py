@@ -1,10 +1,13 @@
+"""
+Finds standard deviation of numerical data inputted by
+the user. Data input ends when user types "done".
+"""
 import math
 # mainList = [0, 3, 5, 7, 2, 6, 1, 9, 12, 37, 42]
 
 
 def avg(data):
     total = 0.0
-    average = 0.0
     for i in range(len(data)):
         total = total + data[i]
     average = (total / (len(data)))
@@ -24,12 +27,12 @@ def find(data):
 mainList = []
 print("Enter list one number at a time, when you are finished, type done")
 while True:
-    item = raw_input("Item")
+    item = raw_input("Item ")
     if item == "done":
         break
     try:
         mainList.append(int(item))
     except ValueError:
         print ("Invalid item")
-print avg(mainList)
-print find(mainList)
+print "Average is: " + str(avg(mainList))
+print "Population Standard Deviation is: " + str(find(mainList))

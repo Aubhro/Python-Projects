@@ -1,3 +1,7 @@
+"""
+Prints basic html of a website.
+"""
+
 from __future__ import print_function
 import urllib
 

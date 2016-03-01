@@ -1,3 +1,6 @@
+"""
+Finds factorial using recursion and looping structure.
+"""
 while True:
     num = input("What number would you like to find the factorial of? \n")
 

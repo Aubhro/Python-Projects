@@ -1,3 +1,8 @@
+"""
+Binary search program that returns index of item user selects in list.
+Works with any list that is sorted from least to greatest.
+"""
+
 while True:
     library = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     find = input("What number would u like to find? \n")
