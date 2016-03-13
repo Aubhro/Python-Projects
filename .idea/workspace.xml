@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24a40918-b023-4daa-b4ca-0be86348bb7d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CARDIACvm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3_2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3_3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3_4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3_5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3_6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills3_8.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills4_2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills4_3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills4_4.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills4_5.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills4_6.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Drills4_7.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/binarySearch.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/deleteVirus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/factorial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pptConverter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/standardDeviation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/substitutionDecrypt.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/websiteReader.py" afterPath="" />
-    </list>
+    <list default="true" id="24a40918-b023-4daa-b4ca-0be86348bb7d" name="Default" comment="" />
     <ignored path="Python-Projects.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +20,18 @@
     <favorites_list name="Python-Projects" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="binarySearch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sort:Search Algorithms/binarySearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9039548">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -113,20 +99,6 @@
               <option name="myItemId" value="Python-Projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sort:Search Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-Projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -138,7 +110,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.standardDeviation">
+  <component name="RunManager" selected="Python.binarySearch">
     <configuration default="false" name="websiteReader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,6 +141,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python-Projects" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/standardDeviation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort:Search Algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-Projects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort:Search Algorithms/binarySearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -295,14 +284,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.websiteReader" />
       <item index="1" class="java.lang.String" itemvalue="Python.standardDeviation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.binarySearch" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.standardDeviation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.websiteReader" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.binarySearch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.standardDeviation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.websiteReader" />
       </list>
     </recent_temporary>
   </component>
@@ -328,11 +319,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39957035" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -358,5 +349,15 @@
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sort:Search Algorithms/binarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9039548">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
