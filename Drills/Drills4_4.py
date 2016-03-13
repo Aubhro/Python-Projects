@@ -10,6 +10,6 @@ for i in range(len(list)):
         break
 
 
-if contain == True:
+if contain:
     print("The string " + string +  " does not contain 'hello'")
     
