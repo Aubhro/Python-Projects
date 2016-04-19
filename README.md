@@ -1,5 +1,5 @@
 # Python-Projects
-# Various python programming projects and tasks
+Various python programming projects and tasks
 # Drills - Basic problems involving strings
 # In Progress - Incomplete Projects
 # Math - programs that compute factorial and standard deviation
